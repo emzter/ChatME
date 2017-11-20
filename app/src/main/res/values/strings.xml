@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ChatME</string>
+    <string name="Signin_Title">Sign in</string>
+    <string name="email">E-Mail Address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="no_account_yet_create_one">No account yet? Create one</string>
+    <string name="AuthenticatingText">Authenticating...</string>
+    <string name="auth_failed">Login Failed</string>
+    <string name="action_logout">Sign Out</string>
+    <string name="email_error">enter a valid email address</string>
+    <string name="password_error">between 8 and 12 alphanumeric characters</string>
+    <string name="signup_text">Sign Up</string>
+    <string name="password_again">Password Again</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="google_signin">Sign in with Google</string>
+    <string name="facebook_app_id" translatable="false">907009526097922</string>
+    <string name="applogo">appLogo</string>
+    <string name="password_not_match">Password not match</string>
+    <string name="signup_failed">Sign Up Failed</string>
+    <string name="action_settings">Settings</string>
+    <string name="send_button">Send</string>
+    <string name="select_images">Select Images Profile</string>
+    <string name="displayname">Display Name</string>
+    <string name="ok">OK</string>
+    <string name="image_picker_error_text">Something went wrong on your image.</string>
+    <string name="profile_updated">Profile Updated</string>
+    <string name="header_friends">Friends</string>
+    <string name="header_settings">Settings</string>
+    <string name="header_update_profile">Me</string>
+    <string name="chat_header">Chat</string>
+    <string name="registering">Registering...</string>
+</resources>

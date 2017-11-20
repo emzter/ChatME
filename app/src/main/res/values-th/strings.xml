@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChatME</string>
+    <string name="Signin_Title">เข้าสู่ระบบ</string>
+    <string name="email">ที่อยู่อีเมล์</string>
+    <string name="login">ลงชื่อเข้าใช้</string>
+    <string name="no_account_yet_create_one">ไม่มีผู้ใช้? สร้างเลยสิ</string>
+    <string name="password">รหัสผ่าน</string>
+    <string name="AuthenticatingText">กำลังเข้าสู่ระบบ...</string>
+    <string name="action_logout">ลงชื่อออก</string>
+    <string name="auth_failed">ไม่สามารถลงชื่อเข้าใช้ได้</string>
+    <string name="email_error">โปรดกรอกอีเมล์ให้ถูกต้อง</string>
+    <string name="password_error">รหัสผ่านต้องมีอย่างน้อย 8 ถึง 12 ตัวอักษร</string>
+    <string name="applogo">appLogo</string>
+    <string name="google_signin">Sign in with Google</string>
+    <string name="password_again">รหัสผ่านอีกครั้ง</string>
+    <string name="password_not_match">รหัสผ่านไม่ตรงกัน</string>
+    <string name="sign_up">สมัครสมาชิก</string>
+    <string name="signup_failed">สมัครสมาชิกผิดพลาด</string>
+    <string name="signup_text">สมัครสมาชิก</string>
+    <string name="send_button">ส่ง</string>
+    <string name="action_settings">ตั้งค่า</string>
+    <string name="chat_header">แชท</string>
+    <string name="displayname">ชื่อที่ใช้แสดง</string>
+    <string name="header_friends">เพื่อน</string>
+    <string name="header_settings">ตั้งค่า</string>
+    <string name="header_update_profile">ฉัน</string>
+    <string name="image_picker_error_text">มีบางอย่างผิดพลาดกับรูปของคุณ</string>
+    <string name="ok">ตกลง</string>
+    <string name="profile_updated">อัพเดทโปรไฟล์เรียบร้อย</string>
+    <string name="select_images">เลือกรูปโปรไฟล์</string>
+</resources>

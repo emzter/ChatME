@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "933227689471",
+    "firebase_url": "https://mechat-515c9.firebaseio.com",
+    "project_id": "mechat-515c9",
+    "storage_bucket": "mechat-515c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933227689471:android:317841301e9c5ee9",
+        "android_client_info": {
+          "package_name": "com.emz.chatme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933227689471-to305ol9b4v9vio8li8gdaqc7v5pj3bm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5w0ftq-h3MbrKYT_Z2qRNcRFqv1lYEjk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
